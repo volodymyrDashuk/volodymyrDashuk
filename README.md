@@ -53,8 +53,9 @@ I have passion for learning and sharing my knowledge with others as possible. I 
 
 _anything_
 
-[<img height="20" src="https://simpleicons.org/icons/linkedin.svg">][linkedin] [<img height="20" src="https://simpleicons.org/icons/facebook.svg">][facebook] [<img height="20" src="https://simpleicons.org/icons/instagram.svg">][instagram]
+[<img height="20" src="https://simpleicons.org/icons/linkedin.svg">][linkedin] [<img height="20" src="https://simpleicons.org/icons/facebook.svg">][facebook] [<img height="20" src="https://simpleicons.org/icons/instagram.svg">][instagram] [<img height="20" src="https://simpleicons.org/icons/gmail.svg">][mail]
 
 [linkedin]: https://www.linkedin.com/in/vladimir-dashuk/
 [facebook]: https://www.facebook.com/vladimir.dashuk
 [instagram]: https://www.instagram.com/vladimir_dashuk/
+[mail]: mailto:donvov1990@gmail.com

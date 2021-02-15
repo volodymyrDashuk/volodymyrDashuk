@@ -58,4 +58,4 @@ _anything_
 [linkedin]: https://www.linkedin.com/in/vladimir-dashuk/
 [facebook]: https://www.facebook.com/vladimir.dashuk
 [instagram]: https://www.instagram.com/vladimir_dashuk/
-[mail]: mailto:donvov1990@gmail.com
+[mail]: mailto:v.dashuk@atwix.com

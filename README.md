@@ -12,12 +12,12 @@ I have passion for learning and sharing my knowledge with others as possible. I 
   class About extends Me {
        constructor() {
            this.name = 'Volodymyr Dashuk'
-           this.email = 'v.dashuk@atwix.com'
+           this.email = 'donvov1990@gmail.com'
   }
 
   curentPlaceOfWork() {
     return [
-        { 'company' : 'Atwix' },
+        { 'company' : 'Magecom' },
         { 'position' : 'Front-end Developer' }
     ]
   }
@@ -58,4 +58,4 @@ _anything_
 [linkedin]: https://www.linkedin.com/in/vladimir-dashuk/
 [facebook]: https://www.facebook.com/vladimir.dashuk
 [instagram]: https://www.instagram.com/vladimir_dashuk/
-[mail]: mailto:v.dashuk@atwix.com
+[mail]: mailto:donvov1990@gmail.com

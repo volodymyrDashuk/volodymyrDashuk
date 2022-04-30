@@ -24,23 +24,29 @@ I have passion for learning and sharing my knowledge with others as possible. I 
 
   workingWith() {
     return [
-        'HTML, 'CSS', 'SASS/Less', 'Bootstrap', 'Responsive layout', 'Cross-browser compatibility',
-        'npm/yarn', 'Webpack/Gulp/Grunt, 'Javascript', 'jQuery', 'React.js', 'Magento 2', 'Laravel',
-        'Docker', 'GIT', 'Visual Studio Code', 'PHPStorm', 'Adobe Photoshop', 'Adobe Illustrator',
-        'Figma', 'Zeplin' 'Avocode'
+        'HTML, 'CSS', 'SASS/Less', 'Bootstrap', 'Responsive layout', 'Cross-browser compatibility', 'Web Accessibility',
+        'npm/yarn', 'Webpack/Gulp/Grunt, 'Javascript', 'jQuery', 'Vue.js', 'Knockout.js', 'Require.js', 'Magento 2', 'Laravel',
+        'Docker', 'GitHub/GitLab/Bitbucket', 'Visual Studio Code', 'PHPStorm', 'Adobe Photoshop', 'Adobe Illustrator',
+        'Figma', 'Zeplin', 'Avocode'
         ]
   }
 
   currentlyLearning() {
     return [
-        'Magento 2', 'Magento PWA Studio', 'React.js', 'Redux'
+        'Magento 2', 'Vue.js', 'Vuex', 'Magento PWA Studio'
         ]
+  }
+
+  petProjects() {
+    return [
+        { 'Tim (Time logging project)' : 'https://tim-assistant.netlify.app/' }
+    ]
   }
 
   crazyAbout() {
     return [
         'coding', 'AC/DC', 'bicycle riding', 'video games'
-        ]
+    ]
   }
 }
 ```
